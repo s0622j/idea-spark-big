@@ -25,6 +25,7 @@ import re
 #下载
 # resp = urllib.request.urlopen("http://focus.tianya.cn/")
 # cont = resp.read()
+# data = resp.read()
 # resp.close()
 # pageHtml = cont.decode("utf-8")
 # print(pageHtml) ;
